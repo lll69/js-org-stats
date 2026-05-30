@@ -20,6 +20,9 @@ jobs:
         python-version: '3.12.3'
         pip-install: unidiff==0.7.5
 
+    - name: Clone js.org
+      run: git clone https://github.com/js-org/js.org.git js.org
+
     - name: Generate
       run: python stat.py
 
