@@ -1,0 +1,32 @@
+name: Generate Stats
+
+on:
+  push:
+    branches: [ "main" ]
+  schedule:
+    - cron: '30 1 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        repository: 'lll69/js-org-stats-generate'
+
+    - uses: actions/setup-python@v6
+      with:
+        python-version: '3.12.3'
+        pip-install: unidiff==0.7.5
+
+    - name: Generate
+      run: python stat.py
+
+    - name: Push Stats
+      uses: crazy-max/ghaction-github-pages@v4
+      with:
+        target_branch: stat
+        build_dir: dist
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
