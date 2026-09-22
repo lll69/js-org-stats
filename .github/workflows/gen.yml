@@ -24,7 +24,10 @@ jobs:
       run: git clone https://github.com/js-org/js.org.git js.org
 
     - name: Generate
-      run: python stat.py
+      run: |
+        python pulls.py ${{ secrets.GITHUB_TOKEN }}
+        python stat.py
+        python svg.py
 
     - name: Push Stats
       uses: crazy-max/ghaction-github-pages@v4
