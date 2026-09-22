@@ -22,13 +22,13 @@ jobs:
     - name: Clone js.org
       run: git clone https://github.com/js-org/js.org.git js.org
 
+    - run: pip install -r requirements.txt
+
     - name: Generate
       run: |
         python pulls.py ${{ secrets.GITHUB_TOKEN }}
         python stat.py
         python svg.py
-
-    - run: pip install -r requirements.txt
 
     - name: Push Stats
       uses: crazy-max/ghaction-github-pages@v4
