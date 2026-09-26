@@ -32,11 +32,14 @@ jobs:
 
     - run: npm install
 
-    - name: Generate
-      run: |
-        npx tsx pulls.ts ${{ secrets.GITHUB_TOKEN }}
-        npx tsx stat.ts
-        python svg.py
+    - name: Run pulls.ts
+      run: npx tsx pulls.ts ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Run stat.ts
+      run: npx tsx stat.ts
+
+    - name: Run svg.py
+      run: python svg.py
 
     - name: Push Stats
       uses: lll69/ghpages@eb08c35b9fab86751edfff4e55cd5cde35ff0e52 # v3
