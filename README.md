@@ -1,6 +1,6 @@
 # js-org-stats
 
-Generate JS.ORG stats
+Generate JS.ORG stats. See <https://github.com/lll69/js-org-stats-generate>
 
 ## Subdomain History
 
