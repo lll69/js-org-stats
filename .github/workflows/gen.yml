@@ -20,15 +20,22 @@ jobs:
       with:
         python-version: '3.12.3'
 
+    - name: Use Node.js 24.18.0
+      uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+      with:
+        node-version: 24.18.0
+
     - name: Clone js.org
       run: git clone https://github.com/js-org/js.org.git js.org
 
     - run: pip install -r requirements.txt
 
+    - run: npm install
+
     - name: Generate
       run: |
-        python pulls.py ${{ secrets.GITHUB_TOKEN }}
-        python stat.py
+        npx tsx pulls.ts ${{ secrets.GITHUB_TOKEN }}
+        npx tsx stat.ts
         python svg.py
 
     - name: Push Stats
