@@ -41,6 +41,9 @@ jobs:
     - name: Run svg.py
       run: python svg.py
 
+    - name: Run svg.js
+      run: node svg.js
+
     - name: Push Stats
       uses: lll69/ghpages@eb08c35b9fab86751edfff4e55cd5cde35ff0e52 # v3
       with:
