@@ -44,6 +44,8 @@ jobs:
     - name: Run svg.js
       run: node svg.js
 
+    - run: ls -alR > dist/ls-alR.txt
+
     - name: Push Stats
       uses: lll69/ghpages@eb08c35b9fab86751edfff4e55cd5cde35ff0e52 # v3
       with:
