@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<title>JS.ORG Monthly Stats</title>
+<rect width="1600" height="900" fill="white"/>
+<line x1="90" y1="781.56" x2="1510" y2="781.56" stroke="#b0b0b0" stroke-width="1"/>
+<text x="78" y="781.56" dy="0.35em" text-anchor="end" font-family="sans-serif" font-size="20">0</text>
+<line x1="90" y1="674.69" x2="1510" y2="674.69" stroke="#b0b0b0" stroke-width="1"/>
+<text x="78" y="674.69" dy="0.35em" text-anchor="end" font-family="sans-serif" font-size="20">50</text>
+<line x1="90" y1="567.82" x2="1510" y2="567.82" stroke="#b0b0b0" stroke-width="1"/>
+<text x="78" y="567.82" dy="0.35em" text-anchor="end" font-family="sans-serif" font-size="20">100</text>
+<line x1="90" y1="460.95" x2="1510" y2="460.95" stroke="#b0b0b0" stroke-width="1"/>
+<text x="78" y="460.95" dy="0.35em" text-anchor="end" font-family="sans-serif" font-size="20">150</text>
+<line x1="90" y1="354.09" x2="1510" y2="354.09" stroke="#b0b0b0" stroke-width="1"/>
+<text x="78" y="354.09" dy="0.35em" text-anchor="end" font-family="sans-serif" font-size="20">200</text>
+<line x1="90" y1="247.22" x2="1510" y2="247.22" stroke="#b0b0b0" stroke-width="1"/>
+<text x="78" y="247.22" dy="0.35em" text-anchor="end" font-family="sans-serif" font-size="20">250</text>
+<line x1="90" y1="140.35" x2="1510" y2="140.35" stroke="#b0b0b0" stroke-width="1"/>
+<text x="78" y="140.35" dy="0.35em" text-anchor="end" font-family="sans-serif" font-size="20">300</text>
+<line x1="90" y1="755.91" x2="1510" y2="755.91" stroke="#b0b0b0" stroke-width="1" stroke-dasharray="10,5"/>
+<text x="1522" y="755.91" dy="0.35em" text-anchor="start" font-family="sans-serif" font-size="20">0%</text>
+<line x1="90" y1="619.55" x2="1510" y2="619.55" stroke="#b0b0b0" stroke-width="1" stroke-dasharray="10,5"/>
+<text x="1522" y="619.55" dy="0.35em" text-anchor="start" font-family="sans-serif" font-size="20">20%</text>
+<line x1="90" y1="483.18" x2="1510" y2="483.18" stroke="#b0b0b0" stroke-width="1" stroke-dasharray="10,5"/>
+<text x="1522" y="483.18" dy="0.35em" text-anchor="start" font-family="sans-serif" font-size="20">40%</text>
+<line x1="90" y1="346.82" x2="1510" y2="346.82" stroke="#b0b0b0" stroke-width="1" stroke-dasharray="10,5"/>
+<text x="1522" y="346.82" dy="0.35em" text-anchor="start" font-family="sans-serif" font-size="20">60%</text>
+<line x1="90" y1="210.45" x2="1510" y2="210.45" stroke="#b0b0b0" stroke-width="1" stroke-dasharray="10,5"/>
+<text x="1522" y="210.45" dy="0.35em" text-anchor="start" font-family="sans-serif" font-size="20">80%</text>
+<line x1="90" y1="74.09" x2="1510" y2="74.09" stroke="#b0b0b0" stroke-width="1" stroke-dasharray="10,5"/>
+<text x="1522" y="74.09" dy="0.35em" text-anchor="start" font-family="sans-serif" font-size="20">100%</text>
+<line x1="90.00" y1="40" x2="90.00" y2="790" stroke="#b0b0b0" stroke-width="1"/>
+<text x="90.00" y="802" text-anchor="end" dominant-baseline="central" font-family="sans-serif" font-size="20" transform="rotate(-90 90.00 802)">2015-1</text>
+<line x1="148.64" y1="40" x2="148.64" y2="790" stroke="#b0b0b0" stroke-width="1"/>
+<text x="148.64" y="802" text-anchor="end" dominant-baseline="central" font-family="sans-serif" font-size="20" transform="rotate(-90 148.64 802)">2015-7</text>
+<line x1="208.25" y1="40" x2="208.25" y2="790" stroke="#b0b0b0" stroke-width="1"/>
+<text x="208.25" y="802" text-anchor="end" dominant-baseline="central" font-family="sans-serif" font-size="20" transform="rotate(-90 208.25 802)">2016-1</text>
+<line x1="267.22" y1="40" x2="267.22" y2="790" stroke="#b0b0b0" stroke-width="1"/>
+<text x="267.22" y="802" text-anchor="end" dominant-baseline="central" font-family="sans-serif" font-size="20" transform="rotate(-90 267.22 802)">2016-7</text>
+<line x1="326.83" y1="40" x2="326.83" y2="790" stroke="#b0b0b0" stroke-width="1"/>
+<text x="326.83" y="802" text-anchor="end" dominant-baseline="central" font-family="sans-serif" font-size="20" transform="rotate(-90 326.83 802)">2017-1</text>
+<line x1="385.47" y1="40" x2="385.47" y2="790" stroke="#b0b0b0" stroke-width="1"/>
+<text x="385.47" y="802" text-anchor="end" dominant-baseline="central" font-family="sans-serif" font-size="20" transform="rotate(-90 385.47 802)">2017-7</text>
+<line x1="445.08" y1="40" x2="445.08" y2="790" stroke="#b0b0b0" stroke-width="1"/>
+<text x="445.08" y="802" text-anchor="end" dominant-baseline="central" font-family="sans-serif" font-size="20" transform="rotate(-90 445.08 802)">2018-1</text>
+<line x1="503.72" y1="40" x2="503.72" y2="790" stroke="#b0b0b0" stroke-width="1"/>
+<text x="503.72" y="802" text-anchor="end" dominant-baseline="central" font-family="sans-serif" font-size="20" transform="rotate(-90 503.72 802)">2018-7</text>
+<line x1="563.33" y1="40" x2="563.33" y2="790" stroke="#b0b0b0" stroke-width="1"/>
+<text x="563.33" y="802" text-anchor="end" dominant-baseline="central" font-family="sans-serif" font-size="20" transform="rotate(-90 563.33 802)">2019-1</text>
+<line x1="621.97" y1="40" x2="621.97" y2="790" stroke="#b0b0b0" stroke-width="1"/>
+<text x="621.97" y="802" text-anchor="end" dominant-baseline="central" font-family="sans-serif" font-size="20" transform="rotate(-90 621.97 802)">2019-7</text>
+<line x1="681.59" y1="40" x2="681.59" y2="790" stroke="#b0b0b0" stroke-width="1"/>
+<text x="681.59" y="802" text-anchor="end" dominant-baseline="central" font-family="sans-serif" font-size="20" transform="rotate(-90 681.59 802)">2020-1</text>
+<line x1="740.55" y1="40" x2="740.55" y2="790" stroke="#b0b0b0" stroke-width="1"/>
+<text x="740.55" y="802" text-anchor="end" dominant-baseline="central" font-family="sans-serif" font-size="20" transform="rotate(-90 740.55 802)">2020-7</text>
+<line x1="800.16" y1="40" x2="800.16" y2="790" stroke="#b0b0b0" stroke-width="1"/>
+<text x="800.16" y="802" text-anchor="end" dominant-baseline="central" font-family="sans-serif" font-size="20" transform="rotate(-90 800.16 802)">2021-1</text>
+<line x1="858.80" y1="40" x2="858.80" y2="790" stroke="#b0b0b0" stroke-width="1"/>
+<text x="858.80" y="802" text-anchor="end" dominant-baseline="central" font-family="sans-serif" font-size="20" transform="rotate(-90 858.80 802)">2021-7</text>
+<line x1="918.41" y1="40" x2="918.41" y2="790" stroke="#b0b0b0" stroke-width="1"/>
+<text x="918.41" y="802" text-anchor="end" dominant-baseline="central" font-family="sans-serif" font-size="20" transform="rotate(-90 918.41 802)">2022-1</text>
+<line x1="977.05" y1="40" x2="977.05" y2="790" stroke="#b0b0b0" stroke-width="1"/>
+<text x="977.05" y="802" text-anchor="end" dominant-baseline="central" font-family="sans-serif" font-size="20" transform="rotate(-90 977.05 802)">2022-7</text>
+<line x1="1036.67" y1="40" x2="1036.67" y2="790" stroke="#b0b0b0" stroke-width="1"/>
+<text x="1036.67" y="802" text-anchor="end" dominant-baseline="central" font-family="sans-serif" font-size="20" transform="rotate(-90 1036.67 802)">2023-1</text>
+<line x1="1095.31" y1="40" x2="1095.31" y2="790" stroke="#b0b0b0" stroke-width="1"/>
+<text x="1095.31" y="802" text-anchor="end" dominant-baseline="central" font-family="sans-serif" font-size="20" transform="rotate(-90 1095.31 802)">2023-7</text>
+<line x1="1154.92" y1="40" x2="1154.92" y2="790" stroke="#b0b0b0" stroke-width="1"/>
+<text x="1154.92" y="802" text-anchor="end" dominant-baseline="central" font-family="sans-serif" font-size="20" transform="rotate(-90 1154.92 802)">2024-1</text>
+<line x1="1213.88" y1="40" x2="1213.88" y2="790" stroke="#b0b0b0" stroke-width="1"/>
+<text x="1213.88" y="802" text-anchor="end" dominant-baseline="central" font-family="sans-serif" font-size="20" transform="rotate(-90 1213.88 802)">2024-7</text>
+<line x1="1273.50" y1="40" x2="1273.50" y2="790" stroke="#b0b0b0" stroke-width="1"/>
+<text x="1273.50" y="802" text-anchor="end" dominant-baseline="central" font-family="sans-serif" font-size="20" transform="rotate(-90 1273.50 802)">2025-1</text>
+<line x1="1332.14" y1="40" x2="1332.14" y2="790" stroke="#b0b0b0" stroke-width="1"/>
+<text x="1332.14" y="802" text-anchor="end" dominant-baseline="central" font-family="sans-serif" font-size="20" transform="rotate(-90 1332.14 802)">2025-7</text>
+<line x1="1391.75" y1="40" x2="1391.75" y2="790" stroke="#b0b0b0" stroke-width="1"/>
+<text x="1391.75" y="802" text-anchor="end" dominant-baseline="central" font-family="sans-serif" font-size="20" transform="rotate(-90 1391.75 802)">2026-1</text>
+<line x1="1450.39" y1="40" x2="1450.39" y2="790" stroke="#b0b0b0" stroke-width="1"/>
+<text x="1450.39" y="802" text-anchor="end" dominant-baseline="central" font-family="sans-serif" font-size="20" transform="rotate(-90 1450.39 802)">2026-7</text>
+<line x1="1510.00" y1="40" x2="1510.00" y2="790" stroke="#b0b0b0" stroke-width="1"/>
+<text x="1510.00" y="802" text-anchor="end" dominant-baseline="central" font-family="sans-serif" font-size="20" transform="rotate(-90 1510.00 802)">2027-1</text>
+<rect x="90" y="40" width="1420" height="750" fill="none" stroke="black" stroke-width="1"/>
+<path d="M 119.16 388.28 L 128.88 542.17 L 138.92 713.16 L 148.64 700.34 L 158.68 721.71 L 168.73 732.40 L 178.45 696.06 L 188.49 747.36 L 198.21 745.22 L 208.25 693.93 L 218.30 700.34 L 227.69 719.57 L 237.73 689.65 L 247.45 706.75 L 257.50 717.44 L 267.22 702.48 L 277.26 719.57 L 287.30 702.48 L 297.02 668.28 L 307.07 700.34 L 316.79 683.24 L 326.83 661.87 L 336.87 659.73 L 345.94 664.00 L 355.99 672.55 L 365.71 668.28 L 375.75 664.00 L 385.47 651.18 L 395.51 666.14 L 405.56 689.65 L 415.27 672.55 L 425.32 672.55 L 435.04 655.45 L 445.08 625.53 L 455.12 602.02 L 464.20 651.18 L 474.24 657.59 L 483.96 572.10 L 494.00 649.04 L 503.72 616.98 L 513.76 567.82 L 523.81 623.39 L 533.53 559.27 L 543.57 606.29 L 553.29 597.74 L 563.33 561.41 L 573.38 640.49 L 582.45 636.22 L 592.49 608.43 L 602.21 582.78 L 612.25 621.26 L 621.97 569.96 L 632.02 661.87 L 642.06 619.12 L 651.78 591.33 L 661.82 642.63 L 671.54 670.41 L 681.59 621.26 L 691.63 661.87 L 701.02 599.88 L 711.07 478.05 L 720.79 495.15 L 730.83 542.17 L 740.55 422.48 L 750.59 452.40 L 760.64 537.90 L 770.36 386.15 L 780.40 401.11 L 790.12 409.66 L 800.16 443.85 L 810.21 516.52 L 819.28 531.49 L 829.32 520.80 L 839.04 527.21 L 849.08 584.92 L 858.80 548.59 L 868.85 565.68 L 878.89 559.27 L 888.61 548.59 L 898.65 557.13 L 908.37 595.61 L 918.41 608.43 L 928.46 544.31 L 937.53 486.60 L 947.57 569.96 L 957.29 627.67 L 967.34 629.80 L 977.05 555.00 L 987.10 559.27 L 997.14 644.77 L 1006.86 576.37 L 1016.90 625.53 L 1026.62 689.65 L 1036.67 629.80 L 1046.71 625.53 L 1055.78 608.43 L 1065.82 621.26 L 1075.54 657.59 L 1085.59 644.77 L 1095.31 640.49 L 1105.35 674.69 L 1115.39 627.67 L 1125.11 649.04 L 1135.16 634.08 L 1144.88 672.55 L 1154.92 674.69 L 1164.96 642.63 L 1174.36 668.28 L 1184.40 674.69 L 1194.12 619.12 L 1204.16 681.10 L 1213.88 696.06 L 1223.93 674.69 L 1233.97 659.73 L 1243.69 657.59 L 1253.73 651.18 L 1263.45 676.83 L 1273.50 657.59 L 1283.54 634.08 L 1292.61 668.28 L 1302.65 634.08 L 1312.37 616.98 L 1322.42 608.43 L 1332.14 546.45 L 1342.18 614.84 L 1352.22 625.53 L 1361.94 616.98 L 1371.98 619.12 L 1381.70 535.76 L 1391.75 557.13 L 1401.79 448.13 L 1410.86 349.81 L 1420.91 285.69 L 1430.63 178.82 L 1440.67 223.71 L 1450.39 74.09 L 1460.43 185.23 L 1470.47 398.97 L 1480.19 281.41" fill="none" stroke="#FF9800" stroke-width="2"/>
+<path d="M 119.16 505.84 L 128.88 642.63 L 138.92 723.85 L 148.64 715.30 L 158.68 738.81 L 168.73 751.63 L 178.45 725.99 L 188.49 753.77 L 198.21 751.63 L 208.25 713.16 L 218.30 719.57 L 227.69 740.95 L 237.73 717.44 L 247.45 721.71 L 257.50 730.26 L 267.22 728.12 L 277.26 738.81 L 287.30 721.71 L 297.02 702.48 L 307.07 715.30 L 316.79 721.71 L 326.83 702.48 L 336.87 687.51 L 345.94 711.02 L 355.99 689.65 L 365.71 706.75 L 375.75 689.65 L 385.47 691.79 L 395.51 715.30 L 405.56 723.85 L 415.27 702.48 L 425.32 698.20 L 435.04 691.79 L 445.08 689.65 L 455.12 657.59 L 464.20 683.24 L 474.24 706.75 L 483.96 659.73 L 494.00 687.51 L 503.72 687.51 L 513.76 634.08 L 523.81 687.51 L 533.53 672.55 L 543.57 678.96 L 553.29 659.73 L 563.33 653.32 L 573.38 676.83 L 582.45 683.24 L 592.49 666.14 L 602.21 653.32 L 612.25 676.83 L 621.97 659.73 L 632.02 683.24 L 642.06 685.38 L 651.78 664.00 L 661.82 698.20 L 671.54 717.44 L 681.59 676.83 L 691.63 693.93 L 701.02 659.73 L 711.07 597.74 L 720.79 623.39 L 730.83 651.18 L 740.55 574.23 L 750.59 595.61 L 760.64 636.22 L 770.36 582.78 L 780.40 572.10 L 790.12 589.19 L 800.16 649.04 L 810.21 696.06 L 819.28 649.04 L 829.32 668.28 L 839.04 681.10 L 849.08 728.12 L 858.80 689.65 L 868.85 687.51 L 878.89 698.20 L 888.61 676.83 L 898.65 700.34 L 908.37 721.71 L 918.41 721.71 L 928.46 674.69 L 937.53 676.83 L 947.57 706.75 L 957.29 730.26 L 967.34 730.26 L 977.05 693.93 L 987.10 704.61 L 997.14 740.95 L 1006.86 723.85 L 1016.90 734.54 L 1026.62 734.54 L 1036.67 745.22 L 1046.71 751.63 L 1055.78 730.26 L 1065.82 738.81 L 1075.54 734.54 L 1085.59 732.40 L 1095.31 732.40 L 1105.35 740.95 L 1115.39 721.71 L 1125.11 728.12 L 1135.16 725.99 L 1144.88 736.67 L 1154.92 736.67 L 1164.96 730.26 L 1174.36 745.22 L 1184.40 747.36 L 1194.12 743.08 L 1204.16 747.36 L 1213.88 755.91 L 1223.93 745.22 L 1233.97 743.08 L 1243.69 740.95 L 1253.73 740.95 L 1263.45 749.50 L 1273.50 745.22 L 1283.54 730.26 L 1292.61 745.22 L 1302.65 755.91 L 1312.37 732.40 L 1322.42 719.57 L 1332.14 713.16 L 1342.18 728.12 L 1352.22 736.67 L 1361.94 732.40 L 1371.98 745.22 L 1381.70 721.71 L 1391.75 721.71 L 1401.79 711.02 L 1410.86 674.69 L 1420.91 704.61 L 1430.63 725.99 L 1440.67 721.71 L 1450.39 693.93 L 1460.43 698.20 L 1470.47 717.44 L 1480.19 706.75" fill="none" stroke="#009688" stroke-width="2"/>
+<path d="M 119.16 337.18 L 128.88 415.00 L 138.92 138.01 L 148.64 199.69 L 158.68 244.55 L 168.73 281.60 L 178.45 380.91 L 188.49 244.55 L 198.21 154.30 L 208.25 190.50 L 218.30 235.57 L 227.69 215.16 L 237.73 232.65 L 247.45 190.97 L 257.50 210.45 L 267.22 221.51 L 277.26 215.16 L 287.30 166.23 L 297.02 202.74 L 307.07 181.75 L 316.79 296.42 L 326.83 268.90 L 336.87 169.78 L 345.94 222.85 L 355.99 127.57 L 365.71 215.60 L 375.75 111.28 L 385.47 230.57 L 395.51 276.11 L 405.56 185.08 L 415.27 261.26 L 425.32 221.15 L 435.04 235.88 L 445.08 260.89 L 455.12 195.84 L 464.20 141.15 L 474.24 238.67 L 483.96 275.85 L 494.00 228.05 L 503.72 295.46 L 513.76 217.27 L 523.81 276.79 L 533.53 329.77 L 543.57 290.28 L 553.29 216.80 L 563.33 292.54 L 573.38 208.39 L 582.45 214.47 L 592.49 250.86 L 602.21 272.04 L 612.25 192.27 L 621.97 294.48 L 632.02 171.49 L 642.06 298.37 L 651.78 250.29 L 661.82 325.84 L 671.54 283.88 L 681.59 219.55 L 691.63 208.02 L 701.02 242.54 L 711.07 299.76 L 720.79 323.41 L 730.83 317.60 L 740.55 293.25 L 750.59 282.18 L 760.64 271.46 L 770.36 332.08 L 780.40 323.07 L 790.12 364.06 L 800.16 453.84 L 810.21 502.98 L 819.28 353.81 L 829.32 442.94 L 839.04 383.49 L 849.08 489.11 L 858.80 418.13 L 868.85 391.37 L 878.89 401.89 L 888.61 418.13 L 898.65 457.21 L 908.37 418.92 L 918.41 469.71 L 928.46 405.79 L 937.53 479.23 L 947.57 459.77 L 957.29 500.23 L 967.34 487.02 L 977.05 440.73 L 987.10 441.22 L 997.14 500.23 L 1006.86 521.53 L 1016.90 485.05 L 1026.62 359.50 L 1036.67 496.63 L 1046.71 569.11 L 1055.78 520.22 L 1065.82 528.64 L 1075.54 485.53 L 1085.59 489.57 L 1095.31 466.65 L 1105.35 483.18 L 1115.39 443.41 L 1125.11 426.00 L 1135.16 469.35 L 1144.88 408.32 L 1154.92 415.00 L 1164.96 493.67 L 1174.36 485.75 L 1184.40 469.55 L 1194.12 522.66 L 1204.16 509.29 L 1213.88 483.18 L 1223.93 524.09 L 1233.97 516.67 L 1243.69 497.29 L 1253.73 510.01 L 1263.45 519.36 L 1273.50 497.29 L 1283.54 508.87 L 1292.61 460.03 L 1302.65 597.81 L 1312.37 525.68 L 1322.42 452.88 L 1332.14 526.57 L 1342.18 511.15 L 1352.22 541.09 L 1361.94 543.39 L 1371.98 585.45 L 1381.70 560.26 L 1391.75 548.12 L 1401.79 559.23 L 1410.86 553.39 L 1420.91 638.35 L 1430.63 676.12 L 1440.67 648.80 L 1450.39 646.74 L 1460.43 641.05 L 1470.47 626.40 L 1480.19 630.62" fill="none" stroke="#2196F3" stroke-width="2" stroke-dasharray="2,2"/>
+<line x1="110" y1="68" x2="145" y2="68" stroke="#FF9800" stroke-width="2"/>
+<text x="155" y="68" dy="0.35em" font-family="sans-serif" font-size="20">Monthly PR Created</text>
+<line x1="110" y1="93" x2="145" y2="93" stroke="#009688" stroke-width="2"/>
+<text x="155" y="93" dy="0.35em" font-family="sans-serif" font-size="20">Monthly Subdomain Added</text>
+<line x1="110" y1="118" x2="145" y2="118" stroke="#2196F3" stroke-width="2" stroke-dasharray="2,2"/>
+<text x="155" y="118" dy="0.35em" font-family="sans-serif" font-size="20">Monthly PR Merge Rate (%)</text>
+</svg>
